@@ -22,24 +22,6 @@
     </book>
 
     <book>
-        <title>Data Structures</title>
-        <author>Mark Allen Weiss</author>
-        <isbn>9780132847377</isbn>
-        <publisher>Pearson</publisher>
-        <edition>4</edition>
-        <price>700</price>
-    </book>
-
-    <book>
-        <title>Database Management Systems</title>
-        <author>Raghu Ramakrishnan</author>
-        <isbn>9780072465631</isbn>
-        <publisher>McGraw Hill</publisher>
-        <edition>3</edition>
-        <price>800</price>
-    </book>
-
-    <book>
         <title>Computer Networks</title>
         <author>Andrew S. Tanenbaum</author>
         <isbn>9780132126953</isbn>
@@ -47,5 +29,6 @@
         <edition>5</edition>
         <price>750</price>
     </book>
+
 
 </bookstore>
