@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="doc.xsl"?>
+<?xml-stylesheet type="text/xsl" href="user.xsl"?>
 
 <users>
     <user>
@@ -92,3 +92,4 @@
         <phone>9990011223</phone>
     </user>
 </users>
+
