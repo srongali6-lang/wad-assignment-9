@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="doc.xsl"?>
+
+<users>
+    <user>
+        <id>1</id>
+        <name>Madhu</name>
+        <role>Student</role>
+        <department>CSE</department>
+        <email>madhu@gmail.com</email>
+        <phone>9876543210</phone>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Sunandha</name>
+        <role>Student</role>
+        <department>IT</department>
+        <email>sunandha@gmail.com</email>
+        <phone>9123456780</phone>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Ravi</name>
+        <role>Faculty</role>
+        <department>CSE</department>
+        <email>ravi@gmail.com</email>
+        <phone>9988776655</phone>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Anita</name>
+        <role>Faculty</role>
+        <department>ECE</department>
+        <email>anita@gmail.com</email>
+        <phone>9012345678</phone>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Kiran</name>
+        <role>Student</role>
+        <department>EEE</department>
+        <email>kiran@gmail.com</email>
+        <phone>9345678901</phone>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Priya</name>
+        <role>Student</role>
+        <department>MECH</department>
+        <email>priya@gmail.com</email>
+        <phone>9234567890</phone>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Arjun</name>
+        <role>Faculty</role>
+        <department>CIVIL</department>
+        <email>arjun@gmail.com</email>
+        <phone>9871234560</phone>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Neha</name>
+        <role>Student</role>
+        <department>CSE</department>
+        <email>neha@gmail.com</email>
+        <phone>9654321789</phone>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Rahul</name>
+        <role>Faculty</role>
+        <department>IT</department>
+        <email>rahul@gmail.com</email>
+        <phone>9786543210</phone>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Sneha</name>
+        <role>Student</role>
+        <department>ECE</department>
+        <email>sneha@gmail.com</email>
+        <phone>9898989898</phone>
+    </user>
+
+</users>

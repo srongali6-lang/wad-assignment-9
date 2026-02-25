@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<bookstore>
+
+    <book>
+        <title>Java Programming</title>
+        <author>James Gosling</author>
+        <isbn>9780135166307</isbn>
+        <publisher>Pearson</publisher>
+        <edition>3</edition>
+        <price>550</price>
+    </book>
+
+    <book>
+        <title>Python Basics</title>
+        <author>Guido van Rossum</author>
+        <isbn>9781449355739</isbn>
+        <publisher>O'Reilly</publisher>
+        <edition>2</edition>
+        <price>650</price>
+    </book>
+
+    <book>
+        <title>Data Structures</title>
+        <author>Mark Allen Weiss</author>
+        <isbn>9780132847377</isbn>
+        <publisher>Pearson</publisher>
+        <edition>4</edition>
+        <price>700</price>
+    </book>
+
+    <book>
+        <title>Database Management Systems</title>
+        <author>Raghu Ramakrishnan</author>
+        <isbn>9780072465631</isbn>
+        <publisher>McGraw Hill</publisher>
+        <edition>3</edition>
+        <price>800</price>
+    </book>
+
+    <book>
+        <title>Computer Networks</title>
+        <author>Andrew S. Tanenbaum</author>
+        <isbn>9780132126953</isbn>
+        <publisher>Pearson</publisher>
+        <edition>5</edition>
+        <price>750</price>
+    </book>
+
+</bookstore>
