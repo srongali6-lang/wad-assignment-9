@@ -3,93 +3,92 @@
 
 <users>
     <user>
-        <id>1</id>
-        <name>Madhu</name>
+        <id>101</id>
+        <name>Ashwin</name>
         <role>Student</role>
-        <department>CSE</department>
-        <email>madhu@gmail.com</email>
-        <phone>9876543210</phone>
+        <department>AI & DS</department>
+        <email>ashwin@college.edu</email>
+        <phone>9001122334</phone>
     </user>
 
     <user>
-        <id>2</id>
-        <name>Sunandha</name>
+        <id>102</id>
+        <name>Divya</name>
+        <role>Faculty</role>
+        <department>CSE</department>
+        <email>divya@college.edu</email>
+        <phone>9112233445</phone>
+    </user>
+
+    <user>
+        <id>103</id>
+        <name>Vikram</name>
         <role>Student</role>
         <department>IT</department>
-        <email>sunandha@gmail.com</email>
-        <phone>9123456780</phone>
+        <email>vikram@college.edu</email>
+        <phone>9223344556</phone>
     </user>
 
     <user>
-        <id>3</id>
-        <name>Ravi</name>
-        <role>Faculty</role>
-        <department>CSE</department>
-        <email>ravi@gmail.com</email>
-        <phone>9988776655</phone>
-    </user>
-
-    <user>
-        <id>4</id>
-        <name>Anita</name>
+        <id>104</id>
+        <name>Meena</name>
         <role>Faculty</role>
         <department>ECE</department>
-        <email>anita@gmail.com</email>
-        <phone>9012345678</phone>
+        <email>meena@college.edu</email>
+        <phone>9334455667</phone>
     </user>
 
     <user>
-        <id>5</id>
-        <name>Kiran</name>
+        <id>105</id>
+        <name>Rohit</name>
         <role>Student</role>
         <department>EEE</department>
-        <email>kiran@gmail.com</email>
-        <phone>9345678901</phone>
+        <email>rohit@college.edu</email>
+        <phone>9445566778</phone>
     </user>
 
     <user>
-        <id>6</id>
-        <name>Priya</name>
+        <id>106</id>
+        <name>Pooja</name>
         <role>Student</role>
         <department>MECH</department>
-        <email>priya@gmail.com</email>
-        <phone>9234567890</phone>
+        <email>pooja@college.edu</email>
+        <phone>9556677889</phone>
     </user>
 
     <user>
-        <id>7</id>
-        <name>Arjun</name>
+        <id>107</id>
+        <name>Harish</name>
         <role>Faculty</role>
         <department>CIVIL</department>
-        <email>arjun@gmail.com</email>
-        <phone>9871234560</phone>
+        <email>harish@college.edu</email>
+        <phone>9667788990</phone>
     </user>
 
     <user>
-        <id>8</id>
-        <name>Neha</name>
+        <id>108</id>
+        <name>Ananya</name>
         <role>Student</role>
-        <department>CSE</department>
-        <email>neha@gmail.com</email>
-        <phone>9654321789</phone>
+        <department>AI & ML</department>
+        <email>ananya@college.edu</email>
+        <phone>9778899001</phone>
     </user>
 
     <user>
-        <id>9</id>
-        <name>Rahul</name>
+        <id>109</id>
+        <name>Karthik</name>
         <role>Faculty</role>
         <department>IT</department>
-        <email>rahul@gmail.com</email>
-        <phone>9786543210</phone>
+        <email>karthik@college.edu</email>
+        <phone>9889900112</phone>
     </user>
 
     <user>
-        <id>10</id>
-        <name>Sneha</name>
+        <id>110</id>
+        <name>Shalini</name>
         <role>Student</role>
         <department>ECE</department>
-        <email>sneha@gmail.com</email>
-        <phone>9898989898</phone>
+        <email>shalini@college.edu</email>
+        <phone>9990011223</phone>
     </user>
-
 </users>
